@@ -137,6 +137,8 @@ input:lang(ar)[type="submit"], .comment-navigation .nav-previous:lang(ar),
   font-family: Tahoma, Arial, sans-serif;
 }
 
+body{border:1px solid red;}
+
 body:lang(ary), button:lang(ary),
 input:lang(ary),
 select:lang(ary),
